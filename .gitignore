@@ -1,0 +1,7 @@
+__pycache__/
+*.log
+*.tar.gz
+data/
+snapshots/
+logs/
+
